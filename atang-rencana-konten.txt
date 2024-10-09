@@ -6,4 +6,6 @@ login
 - cyber security
 teori
 - JS
-responsive
+vue
+react
+
