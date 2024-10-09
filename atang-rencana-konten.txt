@@ -5,3 +5,5 @@ login
 - back end
 - cyber security
 teori
+- JS
+responsive
