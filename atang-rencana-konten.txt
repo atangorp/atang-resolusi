@@ -5,3 +5,6 @@ login
 - back end
 - cyber security
 teori
+- JS
+vue
+react
