@@ -8,3 +8,4 @@ teori
 - JS
 vue
 react
+
