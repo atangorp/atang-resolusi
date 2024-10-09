@@ -7,3 +7,4 @@ login
 teori
 - JS
 vue
+react
